@@ -1,0 +1,18 @@
+header h4{
+    background-color: aqua;
+    height: 40px;
+    color: #ffff;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    text-align: center;
+}
+ 
+.error{
+    height: 20px;
+    color: red;
+    font-size: smaller;
+}
+.error1{
+    color: orange;
+    font-size: smaller;
+}
